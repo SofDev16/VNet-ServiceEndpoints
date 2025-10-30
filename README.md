@@ -3,13 +3,11 @@
 
 # 🌐VNet-ServiceEndpoints
 
-📘 Overview
 
-
-## About this Project
+## 📘 Overview
 Secure Azure PaaS resources by restricting access to a designated Virtual Network subnet using VNet Service Endpoints. This setup ensures that only approved network traffic from your VNet can access resources like Azure SQL Database or Storage, eliminating public‑internet exposure.
 
-### What I Built
+### 🧩 Key Tasks Completed
 - Deployed an Azure VNet + Subnet with Service Endpoints enabled  
 - Provisioned an Azure SQL Database with network rule limiting access to the subnet  
 - Implemented Infrastructure as Code (Bicep/Terraform)  
@@ -17,18 +15,6 @@ Secure Azure PaaS resources by restricting access to a designated Virtual Ne
 
 ### Skills & Tools
 Azure · Virtual Network · VNet Service Endpoints · Azure SQL · Infrastructure as Code (Bicep/Terraform) · DevSecOps
-
-
-🧩 Key Tasks Completed
-
-Improved security and compliance
-
-Reduced exposure to the public internet
-
-Simplified network architecture for hybrid and cloud-native applications
-
-
-
 
 
 🧹 Clean Up
