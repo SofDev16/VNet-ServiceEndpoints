@@ -1,6 +1,9 @@
 # 🌐VNet-ServiceEndpoints
 
 📘 Overview
+
+
+
 This project demonstrates how to restrict network access to Azure PaaS resources (such as Azure SQL Database, Storage Accounts, and Key Vault) using Virtual Network (VNet) Service Endpoints. By enabling service endpoints, you can secure PaaS resources so that only traffic from designated VNets/subnets is allowed, while blocking access from the public internet.
 
 
