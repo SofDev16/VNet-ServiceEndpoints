@@ -17,7 +17,7 @@ Secure Azure PaaS resources by restricting access to a designated Virtual Ne
 Azure · Virtual Network · VNet Service Endpoints · Azure SQL · Infrastructure as Code (Bicep/Terraform) · DevSecOps
 
 
-🧹 Clean Up
+# 🧹 Clean Up
 
 To avoid unnecessary costs, delete all created resources after verifying connectivity
 
